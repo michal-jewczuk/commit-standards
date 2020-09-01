@@ -15,6 +15,7 @@
    - body - full sentences in past tense, each one starts in separate line
 
 ## General rules
+fix typos
 
 ### Commit often
 
