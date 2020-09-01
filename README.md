@@ -15,7 +15,7 @@
    - body - full sentences in past tense, each one starts in separate line
 
 ## General rules
-
+this line will be removed
 ### Commit often
 
 ### Commit logical parts only
