@@ -16,4 +16,10 @@
 
 ## General rules
 
+### Commit often
+
+### Commit logical parts only
+
+### Plan your work ahead
+
 ## Commit message format
